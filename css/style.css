@@ -1,0 +1,139 @@
+body{
+	background: #6d8fb3 ;
+}
+a {
+	position: relative;
+	left: 900px;
+	color: white;
+	margin-left: 20px;
+	top: 20px;
+	text-decoration: none;
+	font-family: Arial;
+}
+
+.block2 {
+	color: white;
+	position: relative;
+	margin-right:700px;
+	margin-left: -800px;
+	top: -100px;
+	font-size:25px ;
+	font-family: Arial;
+	text-decoration: none;
+}
+h1 {
+	color:black;
+	position: relative;
+	top: 90px;
+	left: 530px;
+	font-size: 38px;
+
+}
+
+p {
+	color: white;
+	position: relative;
+	top: 50px;
+	margin-left: 400px;
+	margin-right: 400px;
+	font-size:20px ; 
+	
+}
+
+.block3 {
+	border: 1px solid white;
+	background:	#2F4F4F;
+	padding: 10px 10px;
+	border-radius: 3px ;
+} 
+
+button {
+background: #2E8CE3;
+padding: 7px 30px;
+font-size: 13px;
+font-weight: bold;
+color: #FFFFFF;
+text-align: center;
+border: solid 1px #73C8F0;
+cursor: pointer;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+background: -moz-linear-gradient(0% 100% 90deg, #2E8CE3, #73C2FD);
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#73C2FD), 
+to(#2E8CE3));
+box-shadow: inset 0 1px 0 0 #FFFFFF;
+-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+border-bottom: 1px solid rgba(0,0,0,0.25); 
+text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+position: relative;
+top: 50px;
+margin-right: 680px;
+margin-left: 530px;
+}
+
+.share {
+background: #2F4F4F;
+border: 1px solid white; 
+position: relative;
+top:19px;
+margin-left: 660px;
+margin-right: 500px; 
+}
+.text {
+    position:relative;
+}
+.text:after {
+    content: '';
+    position:absolute;
+    display:block;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background: -moz-linear-gradient(top,  rgba(39,39,39,1) 0%, rgba(39,39,39,0) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(39,39,39,1)), color-stop(100%,rgba(39,39,39,0)));
+    background: -webkit-linear-gradient(top,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+    background: -o-linear-gradient(top,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+    background: -ms-linear-gradient(top,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+    background: linear-gradient(to bottom,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#00272727',GradientType=0 );
+}
+span {
+    text-shadow:
+        0 -1px 0 #858585,
+        0 1px 10px rgba(0,0,0,.6),
+        0 6px 1px rgba(0,0,0,.1),
+        0 0 5px rgba(0,0,0,.2),
+        0 1px 3px rgba(0,0,0,.3),
+        0 3px 5px rgba(0,0,0,.2),
+        0 7px 10px rgba(0,0,0,.25),
+        0 15px 10px rgba(0,0,0,.2),
+        0 25px 15px rgba(0,0,0,.15);
+}
+.lop{
+	position: relative;
+	top: 60px;
+	left: 500px;
+}
+.iop {
+	position: relative;
+	top: 90px;
+	left: 233px;
+}
+.kol {
+	position: relative;
+	top: 120px;
+	left: 23px;
+}
+.pol {
+	position: relative;
+	top: 150px;
+	right: 233px;
+}
+.jop {
+	position: relative;
+	left: 53px;
+	top: 160px;
+}
